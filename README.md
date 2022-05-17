@@ -115,16 +115,16 @@ plt.show()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-<br>
+
 ![Screenshot (61)](https://user-images.githubusercontent.com/94677128/168846781-2df0a03f-fb10-4efe-a64c-e71a6afe0044.png)
 
-<br>
+
 ![Screenshot (62)](https://user-images.githubusercontent.com/94677128/168846936-c9758cd3-9582-4a28-b0c7-e566988fc526.png)
 
-<br>
+
 ![Screenshot (63)](https://user-images.githubusercontent.com/94677128/168847043-8372780b-8bbe-4660-8e01-d2db87ab3068.png)
 
-<br>
+
 
 
 
